@@ -1,0 +1,26 @@
+{
+    "name": "vue-toaster",
+    "version": "3.0.0",
+    "description": "Vue component for Laralabs/Toaster",
+    "author": "Matt Clinton <matt@laralabs.uk>",
+    "private": false,
+    "main": "./src/ToasterComponent.vue",
+    "license": "MIT",
+    "keywords": [
+        "Vue",
+        "Laralabs",
+        "Notification",
+        "Alerts"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Laralabs/vue-toaster.git"
+    },
+    "homepage": "https://github.com/Laralabs/vue-toaster",
+    "bugs": {
+        "url": "https://github.com/Laralabs/vue-toaster/issues"
+    },
+    "dependencies": {
+        "vue-notification": "^1.3.7"
+    }
+}
