@@ -1,5 +1,5 @@
 {
-    "name": "vue-toaster",
+    "name": "laralabs-vue-toaster",
     "version": "3.0.0",
     "description": "Vue component for Laralabs/Toaster",
     "author": "Matt Clinton <matt@laralabs.uk>",
