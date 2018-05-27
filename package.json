@@ -4,7 +4,7 @@
     "description": "Vue component for Laralabs/Toaster",
     "author": "Matt Clinton <matt@laralabs.uk>",
     "private": false,
-    "main": "./src/ToasterComponent.vue",
+    "main": "./src/ToasterGroupComponent.vue",
     "license": "MIT",
     "keywords": [
         "Vue",
